@@ -15,7 +15,7 @@ results. Chatbot answers are in grey bubbles.
 
 # Dataset 
 Dataset used for training chatbot can be found 
-[here](https://www.kaggle.com/thoughtvector/customer-support-on-twitter/data). This dataset was created by collecting 
+[here](https://docs.zeotap.com/home/en-us/). This dataset was created by collecting 
 publicly available conversations between customer supports and users on Twitter. Many thanks to the author of dataset!
 
 # Try it out!
